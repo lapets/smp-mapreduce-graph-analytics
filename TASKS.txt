@@ -5,4 +5,4 @@ A breakdown of the tasks for building graphs from a random source:
 * investigate what other kinds of graphs the library can produce randomly (e.g., http://networkx.readthedocs.org/en/networkx-1.10/reference/generators.html#module-networkx.generators.random_graphs) and identify some potentially interesting ones;
 A breakdown of the tasks for building graphs from a data set based on internet topology data:
 * write a Python script that uses the urllib library (https://docs.python.org/3/library/urllib.request.html) to retrieve all the data in a data set that has all the edges between individual ASs (http://data.caida.org/datasets/topology/ark/ipv4/as-links/);
-* write a Python script to conver the above data into a more friendly format for our purposes (something like a set of tuples, as before).
+* write a Python script to convert the above data into a more friendly format for our purposes (something like a set of tuples, as before).
